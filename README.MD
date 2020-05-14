@@ -2,10 +2,10 @@
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
 
 ## Assignments
-* [Assignment 1](PPFSQL-Homework.pdf)
-* [Assignment 2](flask_bootstrap_templates.pdf)
-* [Assignment 3](formIntro-pycharm.pdf)
-* [Assignment 4](restIntro-pycharm.pdf)
+* [Assignment 1](https://github.com/kaw393939/PythonDockerFlaskPycharm/blob/lesson4/PPFSQL-Homework.pdf)
+* [Assignment 2](https://github.com/kaw393939/PythonDockerFlaskPycharm/blob/lesson4/flask_bootstrap_templates.pdf)
+* [Assignment 3](https://github.com/kaw393939/PythonDockerFlaskPycharm/blob/lesson3/formIntro-pycharm.pdf)
+* [Assignment 4](https://github.com/kaw393939/PythonDockerFlaskPycharm/blob/lesson4/restIntro-pycharm.pdf)
 
 
 ## Videos
